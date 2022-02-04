@@ -19,16 +19,16 @@ function About() {
             <h1 className="about__heading">Sobre Mí</h1>
             <div className="about__meta">
               <p className="about__text p__color">
-                A lo largo de mi vida me a llamado la atención el aprender
-                nuevas cosas en todos los ambitos en los que me desenvuelvo,
+                A lo largo de mi vida me ha llamado la atención el aprender
+                nuevas cosas en todos los ámbitos en los que me desenvuelvo,
                 buscar el equilibrio en mi vida bajo la responsabilidad y
                 dedicación; celebrar la vida con mi familia y amigos y siempre
-                mantenerme en constante crecimiento gracias a la practica de
+                mantenerme en constante crecimiento gracias a la práctica de
                 actividades artístico culturales y físicas.
               </p>
               <p className="about__text p__color">
                 Como estudiante de Ingeniería en Tecnologías de la Información
-                me he planteado en aprender nuevas técnicas y métodos que surgen
+                me he planteado el aprender nuevas técnicas y métodos que surgen
                 por la evolución de la tecnología, conocer el área laboral en la
                 que me debo desenvolver, desarrollar capacidades y emplear las
                 herramientas que necesito para funcionar de manera idónea en
