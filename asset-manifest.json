@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/saom-porfolio/static/css/main.e8f6158b.css",
-    "main.js": "/saom-porfolio/static/js/main.038f9c4b.js",
+    "main.js": "/saom-porfolio/static/js/main.c30e2ef9.js",
     "static/js/787.86e70ff7.chunk.js": "/saom-porfolio/static/js/787.86e70ff7.chunk.js",
     "static/media/Project3.jpg": "/saom-porfolio/static/media/Project3.64209526b95cb1b88dc4.jpg",
     "static/media/aboutImg.jpg": "/saom-porfolio/static/media/aboutImg.2dcc8a42ea4ebfd1fcda.jpg",
@@ -14,11 +14,11 @@
     "static/media/Ref2.jpg": "/saom-porfolio/static/media/Ref2.c3826593121268421e3c.jpg",
     "index.html": "/saom-porfolio/index.html",
     "main.e8f6158b.css.map": "/saom-porfolio/static/css/main.e8f6158b.css.map",
-    "main.038f9c4b.js.map": "/saom-porfolio/static/js/main.038f9c4b.js.map",
+    "main.c30e2ef9.js.map": "/saom-porfolio/static/js/main.c30e2ef9.js.map",
     "787.86e70ff7.chunk.js.map": "/saom-porfolio/static/js/787.86e70ff7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e8f6158b.css",
-    "static/js/main.038f9c4b.js"
+    "static/js/main.c30e2ef9.js"
   ]
 }
