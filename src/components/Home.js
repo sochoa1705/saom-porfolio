@@ -1,4 +1,4 @@
-import logo from "../img/logo_invert.png";
+import logo from "../img/logo_i.png";
 import React, {useState} from "react";
 import "../styles/Home.css";
 
